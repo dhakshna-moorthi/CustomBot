@@ -7,4 +7,4 @@ LLMFOUNDRY_TOKEN = {your_api_token}
 
 BASE_URL = {your_api_base_url}
 
-Use CustomBot:
+Use CustomBot: https://custombot-gt7t.onrender.com/
